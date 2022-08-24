@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on CompTIA A+ Certification
-- 🌱 I’m currently learning Calculus & Web Developer 1 from University of the People
+- 🌱 I’m currently working towards a Bachelor's degree in Computer Science at University of the People <graduate 2023>
